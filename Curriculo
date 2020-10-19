@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>Apresentação</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0;background-color: #e3f2fd; " >
+  <h1>Victor Hugo Resende Costa</h1>
+
+</div>
+
+<nav class="navbar navbar-light" style="background-color: #000080	;" >
+  <ul class="nav">
+  <li class="nav-item">
+    <a class="nav-link active" href="#Historia">Historia</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#Profissional">Profissional </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#Contato">Contato</a>
+  </li>
+</ul>
+</nav>
+
+<div class="container" style="margin-top:30px">
+  <div class="row">
+
+    <div  id ="Historia" align="justify" >
+      <h2>Minha Historia </h2>
+
+      <p>Olá eu sou Victor Tenho 21 anos sou natural de Uberaba, moro no bairro cartafina desde meu nascimento. Minha infância foi como de
+        qualquer criança que tenha a mesma idade que eu me divertia na rua com brincadeiras de época e jogava videogame quando era possível, com o tempo descobri
+        oque era a internet e os computadores e então fiquei fascinado por esse mundo.  </p>
+      <p>Minha paixão aumento mais ainda depois que eu comecei a ver diversos filmes sobre a área de TI, mas nunca soube como entrar
+        nesse meio sempre pensava que era algo que você já nascia com a habilidade de programar que na época ainda não sabia o que era programação. Quando estava
+        prestes a entrar no ensino médio eu vi uma reportagem sobre adolescentes criando robôs para uma competição no triangulo mineiro foi quando decidi procurar
+        como entrar nessa área foi então que achei o curso de engenharia de computação , que era um curso onde teria programação e ainda conseguiria criar a parte
+        eletrônica assim como tinha visto na matéria.
+      </p>
+      <p>Após terminar o ensino médio resolvi prestar o vestibular da uniube para o curso de Engenharia de Computação, mas por ser meio de semestre não havia turma
+        para o curso então resolvi cursar sistemas de informação que foi onde eu descobri como alcançar a minha paixão da época de criança.
+      </p>
+    </div>
+      <br>
+    <div id="Profissional" align ="justify">
+      <h2>Historico Profissional</h2>
+      <p><b>2016 - 2017</b> Realizei curso de Aprendizagem em Instalação Eletrica no Senai pela Yara Fertilizantes.</p>
+      <p><b>2017 - 2019</b> Realizei Estagio na area de Eletrica Na Empresa Equilab Uberaba, auxiliando na manutanção de equipamentos eletricos e ajuda no atendimento ao cliente.</p>
+      <p><b>2019 - Atualmente </b>Realizo Estagio na uniube como Auxiliar Administrativo Prestando Suporte Aos Alunos e manutenção preventiva nos computadores. </p>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron text-center" style="margin-bottom:0" id="Contato">
+  <h4>Email: victor.resende.costa@gmail.com</h4>
+  <h4>Tel:(34)9 8406-9914</h4>
+  <a class="nav-link" href="#">Inicio</a>
+</div>
+
+</body>
+</html>
